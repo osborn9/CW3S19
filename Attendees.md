@@ -18,3 +18,4 @@ Please organize alphabetically by last name.
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Mark C Miller](https://github.com/markcmiller86)
 - Elaine Raybourn
+- [Sarah Osborn](https://people.llnl.gov/osborn9) 
